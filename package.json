@@ -1,14 +1,14 @@
 {
   "name": "mahabharata-names",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Ger random Mahabharata names",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ygshvr/mahabharata-names.git"
+    "url": "git+https://github.com/yogeshwar-paragyte/mahabharata-names.git"
   },
   "keywords": [
     "mahabharata"
@@ -16,7 +16,10 @@
   "author": "Yogeshwar Singh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Ygshvr/mahabharata-names/issues"
+    "url": "https://github.com/yogeshwar-paragyte/mahabharata-names/issues"
   },
-  "homepage": "https://github.com/Ygshvr/mahabharata-names#readme"
+  "homepage": "https://github.com/yogeshwar-paragyte/mahabharata-names#readme",
+  "dependencies": {
+    "unique-random-array": "^1.0.1"
+  }
 }
